@@ -1,0 +1,22 @@
+div[data-role="header"] img {
+	height: 4%;
+	width:auto;
+	right: 1%;
+	position: fixed;
+}
+
+#mychart {
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -webkit-box-shadow: 0 1px 3px #666;
+    background: #ddd;
+    margin: 0 auto;
+    width: 640px;
+    height: 480px;
+}
+
+.ct-chart {
+	margin: auto;
+	width: 640px;
+    height: 480px;
+}
