@@ -35,6 +35,7 @@
 /Users/dagmara/_phonegap/my-app/platforms/android/assets/www/js \
 /Users/dagmara/_phonegap/my-app/platforms/android/assets/www/myscript.js \
 /Users/dagmara/_phonegap/my-app/platforms/android/assets/www/mystyles.css \
+/Users/dagmara/_phonegap/my-app/platforms/android/assets/www/plugins \
 /Users/dagmara/_phonegap/my-app/platforms/android/assets/www/res \
 /Users/dagmara/_phonegap/my-app/platforms/android/assets/www/spec \
 /Users/dagmara/_phonegap/my-app/platforms/android/assets/www/spec.html \
@@ -58,7 +59,9 @@
 /Users/dagmara/_phonegap/my-app/platforms/android/assets/www/js/chartist.js \
 /Users/dagmara/_phonegap/my-app/platforms/android/assets/www/js/chartist.min.css \
 /Users/dagmara/_phonegap/my-app/platforms/android/assets/www/js/chartist.min.js \
+/Users/dagmara/_phonegap/my-app/platforms/android/assets/www/js/cordova-1.7.0.js \
 /Users/dagmara/_phonegap/my-app/platforms/android/assets/www/js/index.js \
+/Users/dagmara/_phonegap/my-app/platforms/android/assets/www/js/json2.js \
 /Users/dagmara/_phonegap/my-app/platforms/android/assets/www/js/scss \
 /Users/dagmara/_phonegap/my-app/platforms/android/assets/www/js/scss/chartist.scss \
 /Users/dagmara/_phonegap/my-app/platforms/android/assets/www/js/scss/settings \
